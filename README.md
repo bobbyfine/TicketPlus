@@ -1,2 +1,1 @@
-# Jupiter
- Ticket+: Event Search and Ticket Recommendation
+Ticket+: Event Search and Ticket Recommendation
